@@ -1,0 +1,222 @@
+	<!doctype html>
+<html lang="es">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Introducción a Ember.js</title>
+
+		<meta name="description" content="An easy to use CSS 3D slideshow tool for quickly creating good looking HTML presentations.">
+		<meta name="author" content="Hakim El Hattab">
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+		<link rel="stylesheet" href="css/reset.css">
+		<link rel="stylesheet" href="css/main.css">
+		<link rel="stylesheet" href="css/print.css" type="text/css" media="print">
+
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Used to fade in a background when a specific slide state is reached -->
+			<div class="state-background"></div>
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+				<section>
+					<h3 class="inverted">Introducción a</h3>
+					<h1>Ember.js</h1>
+					<p><small>Manuel Cerón - ceronman@gmail.com</small></p>
+				</section>
+
+				<section>
+				<h2>Contenido de la charla</h2>
+				<ul>
+					<li>Acerca de mi</li>
+					<li>Qué es Ember.js</li>
+					<li>Qué es MVC</li>
+					<li>Explorar con ejemplos</li>
+				</ul>
+
+				<p>
+					&nbsp;<br />
+				<a href="https://github.com/ceronman/ember-talk">https://github.com/ceronman/ember-talk</a>
+				</p>
+				</section>
+
+				<section>
+					<h2>Acerca de mi</h2>
+					<ul>
+						<li>Programador desde hace 15 años</li>
+						<li>Aplicaciones de escritorio</li>
+						<li>Backend con Python y C#</li>
+						<li>Nuevo en el web front-end</li>
+					</ul>
+				</section>
+
+				<section>
+					<section>
+						<h2>Qué es Ember.js</h2>
+						<ul>
+							<li>Relativamente nuevo (2011)</li>
+							<li>Raices en SproutCore</li>
+							<li>Aplicaciones web ambiciosas</li>
+						</ul>
+					</section>
+
+					<section>
+						<img src="images/sproutcore-demo.png" />
+					</section>
+					<section>
+						<q cite="http://www.h-online.com/open/news/item/SproutCore-2-0-becomes-Ember-js-1394362.html">
+							Ember.js is focussed on the underlying architecture of JavaScript applications and looks to eliminate boiler plate code and make it easier to create MVC applications without complex code.
+						</q>
+					</section>
+					<section>
+						<h2>Lo que proveé Ember.js</h2>
+						<ul>
+							<li>Modelo de clases</li>
+							<li>Bases para usar MVC</li>
+							<li>Data binding</li>
+							<li>Aplicaciones web ambiciosas</li>
+							<li>Código</li>
+						</ul>
+					</section>
+					<section>
+						<h2>Quienes usan Ember.js</h2>
+						<img src="images/ember-users.png" />
+					</section>
+					<section>
+						<h2>Alternativas a Ember.js</h2>
+						<img src="images/ember-alt.png" />
+					</section>
+				</section>
+				<section>
+					<section>
+						<h2>MVC - Modelo - Vista - Controlador </h2>
+						<img src="images/mvc.png" />
+					</section>
+					<section>
+						<h2>MVC - Modelo - Vista - Controlador </h2>
+						<img src="images/mvc-diagram.png" />
+					</section>
+				</section>
+				<section>
+					<section>
+						<h3>Aprendiendo</h3>
+						<h1>Ember.js</h1>
+						<h3>con Ejemplos</h2>
+					</section>
+					<section>
+						<h2>Hola mundo!</h2>
+						<pre><code>
+window.App = Ember.Application.create({
+	version: "0.1"
+});
+
+						</code></pre>
+						<pre><code>
+&lt;!doctype html&gt;<br/>&lt;html&gt;<br/>&lt;head&gt;<br/>  &lt;script src=&quot;js/libs/jquery-1.7.2.min.js&quot;&gt;&lt;/script&gt;<br/>  &lt;script src=&quot;js/libs/handlebars-1.0.0.beta.6.js&quot;&gt;&lt;/script&gt;<br/>  &lt;script src=&quot;js/libs/ember-1.0.pre.min.js&quot;&gt;&lt;/script&gt;<br/>  &lt;script src=&quot;js/example.js&quot;&gt;&lt;/script&gt;<br/>&lt;/head&gt;<br/>&lt;body&gt;<br/>&lt;script type=&quot;text/x-handlebars&quot;&gt;<br/>  &lt;h1&gt;Hola Mundo version {{App.version}}&lt;/h1&gt;<br/>&lt;/script&gt;<br/>&lt;/body&gt;<br/>&lt;/html&gt;<br/>
+						</code></pre>
+					</section>
+					<section>
+						<h2>Propiedades</h2>
+						<pre><code>
+App.user = Ember.Object.create({
+	firstName: 'Guybrush',
+	lastName: 'Threepwood',
+	profession: 'Pirata',
+
+	fullName: function() {
+		return this.get('firstName') +
+		       ' ' + this.get('lastName');
+	}.property('firstName', 'lastName')
+});
+						</code></pre>
+
+						<pre><code>
+&lt;h1&gt;Hola&lt;/h1&gt;
+&lt;p&gt;Eres &lt;strong&gt;{{App.user.fullName}}&lt;/strong&gt;,
+ eres un {{App.user.profession}}&lt;/p&gt;
+ 						</code></pre>
+					</section>
+					<section>
+						<h2>Más ejemplos...</h2>
+					</section>
+				</section>
+				<section>
+					<h2>¿Preguntas?</h2>
+				</section>
+				<section>
+					<h2>Gracias</h2>
+				</section>
+			</div>
+
+			<!-- The navigational controls UI -->
+			<aside class="controls">
+				<a class="left" href="#">&#x25C4;</a>
+				<a class="right" href="#">&#x25BA;</a>
+				<a class="up" href="#">&#x25B2;</a>
+				<a class="down" href="#">&#x25BC;</a>
+			</aside>
+
+			<!-- Presentation progress bar -->
+			<div class="progress"><span></span></div>
+
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+
+		<script>
+			// Load reveal.js as well as a classList polyfill if needed
+			head.js( !document.body.classList ? 'lib/js/classList.js' : null )
+				.js( 'js/reveal.js', function() {
+
+				// Parse the query string into a key/value object
+				var query = {};
+				location.search.replace( /[A-Z0-9]+?=(\w*)/gi, function(a) {
+					query[ a.split( '=' ).shift() ] = a.split( '=' ).pop();
+				} );
+
+				// Fires when a slide with data-state=customevent is activated
+				Reveal.addEventListener( 'customevent', function() {
+					console.log( '"customevent" has fired' );
+				} );
+
+				// Fires each time a new slide is activated
+				Reveal.addEventListener( 'slidechanged', function( event ) {
+					// event.previousSlide, event.currentSlide, event.indexh, event.indexv
+				} );
+
+				// Full list of configuration options available here:
+				// https://github.com/hakimel/reveal.js#configuration
+				Reveal.initialize({
+					controls: true,
+					progress: true,
+					history: true,
+
+					theme: query.theme || 'default', // default/neon/beige
+					transition: query.transition || 'default' // default/cube/page/concave/linear(2d)
+				});
+
+			} );
+
+			// Load highlight.js for syntax highlighting of code samples
+			head.js( 'lib/js/highlight.js', function() {
+				hljs.initHighlightingOnLoad();
+			} );
+
+			// If we're runnning the notes server we need to include some additional JS
+			// TODO Is there a better way to determine if we're running the notes server?
+			if( window.location.host === 'localhost:1947' ) {
+				head.js( 'socket.io/socket.io.js', 'plugin/speakernotes/client.js' );
+			}
+		</script>
+
+	</body>
+</html>

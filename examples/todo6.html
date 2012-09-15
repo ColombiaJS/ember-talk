@@ -1,0 +1,88 @@
+<!doctype html>
+<html>
+<head>
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <script src="js/libs/jquery-1.7.2.min.js"></script>
+  <script src="js/libs/handlebars-1.0.0.beta.6.js"></script>
+  <script src="js/libs/ember-1.0.pre.min.js"></script>
+  <script src="js/libs/bootstrap.min.js"></script>
+  <script src="js/todo6.js"></script>
+
+  <style>
+    .task-done {
+      text-decoration: line-through;
+      color: gray;
+    },
+
+    .task-pending {
+      color: black;
+    }
+  </style>
+
+  <script type="text/x-handlebars" data-template-name="task-view">
+      {{view Ember.Checkbox checkedBinding="view.task.done"}}
+      <span {{bindAttr class="view.textClass"}}>{{view.task.text}}</span>
+  </script>
+
+  <script type="text/x-handlebars" data-template-name="list-view">
+    <h1>{{view.title}}</h1>
+    <p>
+      <div class="btn-group">
+        <button class="btn" {{action "clean"}}>
+          <i class="icon-trash"></i> Borrar
+        </button>
+
+        <button class="btn" {{action "markAll"}}>
+          <i class="icon-ok"></i> Marcar
+        </button>
+
+        <button class="btn" {{action "sync"}}>
+        <i class="icon-refresh"></i> Sincronizar
+        </button>
+      </div>
+    </p>
+    <p>
+    {{#each view.visibleTasks}}
+      {{view TODO.TaskView taskBinding="this"}}
+    {{/each}}
+    </p>
+
+    {{#if view.hasPages}}
+    <div class="pagination">
+      <ul>
+        <li><a href="#" {{action goPrevPage}}>Prev</a></li>
+        {{#each view.pages}}
+          {{#view TODO.PageView pageBinding="page"}}
+            <a href="#" {{action changePage}}>{{visiblePage}}</a>
+          {{/view}}
+        {{/each}}
+        <li><a href="#" {{action goNextPage}}>Next</a></li>
+      </ul>
+    </div>
+    {{/if}}
+
+    <form class="form-inline">
+      {{view Ember.TextField
+             valueBinding="view.newText"
+             placeholder="Nueva tarea"}}
+      <input type="submit" value="agregar"
+             class="btn btn-primary"
+             {{action "add"}} />
+    </form>
+    <small>
+    Faltan {{view.list.remaining.length}} de {{view.list.tasks.length}}
+    </small>
+</script>
+
+</head>
+<body>
+<script type="text/x-handlebars">
+<div style="padding:20px; width:500px">
+  {{view TODO.ListView
+         listBinding="TODO.list"
+         title="Actividades"
+         classNames="well"}}
+</div>
+</script>
+</body>
+</html>

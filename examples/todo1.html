@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+  <script src="js/libs/jquery-1.7.2.min.js"></script>
+  <script src="js/libs/handlebars-1.0.0.beta.6.js"></script>
+  <script src="js/libs/ember-1.0.pre.min.js"></script>
+  <script src="js/todo1.js"></script>
+</head>
+<body>
+<script type="text/x-handlebars">
+<h1>TODO</h1>
+<ul>
+{{#each TODO.list.tasks}}
+  <li>{{text}}</li>
+{{/each}}
+</ul>
+</script>
+</body>
+</html>

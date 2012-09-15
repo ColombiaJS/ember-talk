@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+<head>
+  <script src="js/libs/jquery-1.7.2.min.js"></script>
+  <script src="js/libs/handlebars-1.0.0.beta.6.js"></script>
+  <script src="js/libs/ember-1.0.pre.min.js"></script>
+  <script src="js/todo5.js"></script>
+
+  <style>
+    .task-done {
+      text-decoration: line-through;
+      color: gray;
+    },
+
+    .task-pending {
+      color: black;
+    }
+  </style>
+
+  <script type="text/x-handlebars" data-template-name="task-view">
+      {{view Ember.Checkbox checkedBinding="view.task.done"}}
+      <span {{bindAttr class="view.textClass"}}>{{view.task.text}}</span>
+  </script>
+
+  <script type="text/x-handlebars" data-template-name="list-view">
+    <h1>{{view.title}}</h1>
+    <p>
+      Faltan {{view.list.remaining.length}} de {{view.list.tasks.length}}
+      [<a href="#" {{action "clean"}}>Limpiar</a>]
+      [<a href="#" {{action "markAll"}}>Marcar todos</a>]
+    </p>
+    <ul>
+    {{#each view.list.tasks}}
+      {{view TODO.TaskView taskBinding="this"}}
+    {{/each}}
+    </ul>
+
+    <form>
+      {{view Ember.TextField
+             valueBinding="view.newText"
+             placeholder="Nueva tarea"}}
+
+      <input type="submit" value="agregar"
+             {{action "add"}} />
+    </form>
+</script>
+
+</head>
+<body>
+<script type="text/x-handlebars">
+  {{view TODO.ListView
+         listBinding="TODO.list"
+         title="Actividades por hacer"}}
+
+</script>
+</body>
+</html>

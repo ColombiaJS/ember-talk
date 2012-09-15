@@ -1,0 +1,1673 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"loa",
+				"loadFromServer"
+			],
+			[
+				"saveTo",
+				"saveToJSON"
+			],
+			[
+				"sa",
+				"saveToJSON"
+			],
+			[
+				"load",
+				"loadFromJSON"
+			],
+			[
+				"add",
+				"addTask"
+			],
+			[
+				"get",
+				"getFullYear"
+			],
+			[
+				"mis",
+				"missingPackages	(local, instance)"
+			],
+			[
+				"object",
+				"objectName"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"dashboa",
+				"dashboard-item-label"
+			],
+			[
+				"dash",
+				"dashboard-item"
+			],
+			[
+				"a",
+				"apiBrowser"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"as",
+				"askEmail"
+			],
+			[
+				"base",
+				"base64Encode"
+			],
+			[
+				"ter",
+				"termsError"
+			],
+			[
+				"email",
+				"emailError"
+			],
+			[
+				"si",
+				"script"
+			],
+			[
+				"emb",
+				"embedlyPreviews"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"Next",
+				"nextPageID"
+			],
+			[
+				"new",
+				"newObjectType"
+			],
+			[
+				"loadFo",
+				"loadFollowers"
+			],
+			[
+				"objec",
+				"objects"
+			],
+			[
+				"oj",
+				"objectType"
+			],
+			[
+				"obje",
+				"objectType"
+			],
+			[
+				"fol",
+				"followedObjects"
+			],
+			[
+				"fo",
+				"followedObjects"
+			],
+			[
+				"user",
+				"userIsFollowingChanged"
+			],
+			[
+				"foll",
+				"followingState"
+			],
+			[
+				"loadFol",
+				"loadFollowingState"
+			],
+			[
+				"followed",
+				"followedObjects"
+			],
+			[
+				"followin",
+				"followingState"
+			],
+			[
+				"following",
+				"followingTag"
+			],
+			[
+				"set",
+				"setError"
+			],
+			[
+				"show",
+				"showingFollowers"
+			],
+			[
+				"folo",
+				"followers"
+			],
+			[
+				"visib",
+				"visibleFollowers"
+			],
+			[
+				"ins",
+				"insertAt"
+			],
+			[
+				"push",
+				"pushObject"
+			],
+			[
+				"content",
+				"content-box"
+			],
+			[
+				"setP",
+				"setPollingTimeout"
+			],
+			[
+				"Comm",
+				"CommentArray"
+			],
+			[
+				"pu",
+				"pulledComments"
+			],
+			[
+				"first",
+				"firstPulledComment"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"res",
+				"resolve"
+			],
+			[
+				"comm",
+				"commentObject"
+			],
+			[
+				"controller",
+				"controllerBinding"
+			],
+			[
+				"embe",
+				"embedlyPreviews"
+			],
+			[
+				"embed",
+				"embedly"
+			],
+			[
+				"pro",
+				"property"
+			],
+			[
+				"related",
+				"relatedContent"
+			],
+			[
+				"rela",
+				"relatedContent"
+			],
+			[
+				"Tr",
+				"TrendingControllerMixin"
+			],
+			[
+				"map",
+				"mapProperty"
+			],
+			[
+				"glo",
+				"globalResult"
+			],
+			[
+				"C",
+				"CommentControllerMixin"
+			],
+			[
+				"url",
+				"urlObjects"
+			],
+			[
+				"se",
+				"setError"
+			],
+			[
+				"is",
+				"isFollowing"
+			],
+			[
+				"showFo",
+				"showFollow"
+			],
+			[
+				"more",
+				"moreExpected"
+			],
+			[
+				"mo",
+				"moreExpected"
+			],
+			[
+				"embedly",
+				"embedlyPreviews"
+			],
+			[
+				"next",
+				"nextPageID"
+			],
+			[
+				"from",
+				"fromJSON"
+			],
+			[
+				"Comment",
+				"CommentObject"
+			],
+			[
+				"source",
+				"sourceURL"
+			],
+			[
+				"Com",
+				"CommentObject"
+			],
+			[
+				"hide",
+				"hideProgressBar"
+			],
+			[
+				"uniq",
+				"uniqueParticipants"
+			],
+			[
+				"_get",
+				"_getTagValue"
+			],
+			[
+				"trending",
+				"trendingObject"
+			],
+			[
+				"tren",
+				"trendingObject"
+			],
+			[
+				"parti",
+				"participants"
+			],
+			[
+				"has",
+				"hashtags"
+			],
+			[
+				"Tre",
+				"TrendingParticipant"
+			],
+			[
+				"em",
+				"embedlyClient"
+			],
+			[
+				"hash",
+				"Hashtags"
+			],
+			[
+				"tre",
+				"trending"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"getTr",
+				"getTrendingDataForUser"
+			],
+			[
+				"cur",
+				"currentUser"
+			],
+			[
+				"ob",
+				"objectController"
+			],
+			[
+				"notif",
+				"notifyPropertyChange"
+			],
+			[
+				"target",
+				"targetURL"
+			],
+			[
+				"H",
+				"HASHTAG_LINK_REGEX"
+			],
+			[
+				"co",
+				"comment_object_link"
+			],
+			[
+				"comment",
+				"comment_object_link"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"side",
+				"sidebar-container"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"on",
+				"onSelection"
+			],
+			[
+				"ac",
+				"activeObject"
+			],
+			[
+				"main",
+				"mainWindow"
+			],
+			[
+				"com",
+				"comment_id"
+			],
+			[
+				"scale",
+				"scaleSpeed"
+			],
+			[
+				"Eve",
+				"EventEmitter"
+			],
+			[
+				"remo",
+				"removeBrick"
+			],
+			[
+				"update",
+				"updateImage"
+			],
+			[
+				"remove",
+				"removeBrick"
+			],
+			[
+				"rando",
+				"randomChoice"
+			],
+			[
+				"bou",
+				"bounceBrick"
+			],
+			[
+				"coll",
+				"collisionSide"
+			],
+			[
+				"sped",
+				"speedX"
+			],
+			[
+				"cell",
+				"cellHeight"
+			],
+			[
+				"padd",
+				"paddleDistance"
+			],
+			[
+				"speed",
+				"speedMagnitude"
+			],
+			[
+				"ma",
+				"MAX_SPEED"
+			],
+			[
+				"limit",
+				"limitRight"
+			],
+			[
+				"create",
+				"createExampleHandler"
+			],
+			[
+				"acti",
+				"activateExample"
+			],
+			[
+				"coffe",
+				"coffee-script"
+			],
+			[
+				"KEY",
+				"KEY_NAMES"
+			],
+			[
+				"loaded",
+				"loadedEvent"
+			],
+			[
+				"dra",
+				"drawEvent"
+			],
+			[
+				"Manuel",
+				"manuel"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/JSHint/JSHint.sublime-build",
+	"command_palette":
+	{
+		"height": 243.0,
+		"selected_items":
+		[
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"convert ",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"hih",
+				"SublimeHighlight: copy to clipboard as HTML"
+			],
+			[
+				"disc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"hihi",
+				"SublimeHighlight: view as HTML"
+			],
+			[
+				"hi",
+				"SublimeHighlight: copy to clipboard as HTML"
+			],
+			[
+				"hihg",
+				"SublimeHighlight: copy to clipboard as HTML"
+			],
+			[
+				"syntax: javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"high",
+				"SublimeHighlight: copy to clipboard as HTML"
+			],
+			[
+				"Hibh",
+				"SublimeHighlight: copy to clipboard as HTML"
+			],
+			[
+				"High",
+				"SublimeHighlight: copy to clipboard as HTML"
+			],
+			[
+				"syntax Java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"HTM",
+				"SublimeHighlight: copy to clipboard as HTML"
+			],
+			[
+				"syntax: C",
+				"Set Syntax: C"
+			],
+			[
+				"Syntax: Co",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"disco",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Disc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sy jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Discov",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Syntax: css",
+				"Set Syntax: CSS"
+			],
+			[
+				"Syntax: Dart",
+				"Set Syntax: Dart"
+			],
+			[
+				"Syntax: Da",
+				"Set Syntax: Dart"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"discove",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Packag",
+				"Package Control: List Packages"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax CSS",
+				"Set Syntax: CSS"
+			],
+			[
+				"scheme",
+				"SchemeCycler : Next Color Scheme"
+			],
+			[
+				"NextCo",
+				"SchemeCycler : Next Color Scheme"
+			],
+			[
+				"Disco",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"them",
+				"Themr: Default"
+			],
+			[
+				"pakc",
+				"Package Control: Remove Package"
+			],
+			[
+				"Pack",
+				"Package Control: List Packages"
+			],
+			[
+				"Pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"Bra",
+				"Bracket Highlighter: Show Left Bracket"
+			],
+			[
+				"brac",
+				"Bracket Highlighter: Match Brackets"
+			],
+			[
+				"Package",
+				"Package Control: List Packages"
+			],
+			[
+				"Git An",
+				"Git: Toggle Annotations"
+			],
+			[
+				"syntax",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"syntax ha",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"syntax H",
+				"Set Syntax: HTML"
+			],
+			[
+				"sy",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"syntax ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax	ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js",
+				"JSHint"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Discover Packages"
+			],
+			[
+				"jshint",
+				"JSHint: Linter"
+			],
+			[
+				"jh",
+				"JSHint: Linter"
+			],
+			[
+				"",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ceronman/Introduccion a EmberJS/examples/js/helloworld4.js",
+		"/home/ceronman/Introduccion a EmberJS/examples/js/helloworld3.js",
+		"/home/ceronman/Introduccion a EmberJS/examples/js/helloworld2.js",
+		"/home/ceronman/Introduccion a EmberJS/examples/js/helloworld1.js",
+		"/home/ceronman/Introduccion a EmberJS/examples/js/todo1.js",
+		"/home/ceronman/Introduccion a EmberJS/examples/js/todo2.js",
+		"/home/ceronman/Introduccion a EmberJS/examples/js/todo3.js",
+		"/home/ceronman/Introduccion a EmberJS/examples/js/todo4.js",
+		"/home/ceronman/Introduccion a EmberJS/examples/todo6.html",
+		"/home/ceronman/Introduccion a EmberJS/examples/js/todo6.js",
+		"/home/ceronman/Introduccion a EmberJS/examples/todoserver.py",
+		"/home/ceronman/Introduccion a EmberJS/examples/todo5.html",
+		"/home/ceronman/Introduccion a EmberJS/examples/helloworld1.html",
+		"/home/ceronman/Introduccion a EmberJS/examples/js/todo5.js",
+		"/home/ceronman/Introduccion a EmberJS/examples/todo3.html",
+		"/home/ceronman/Introduccion a EmberJS/examples/todo4.html",
+		"/home/ceronman/Introduccion a EmberJS/examples/todo1.html",
+		"/home/ceronman/Introduccion a EmberJS/examples/todo2.html",
+		"/home/ceronman/Introduccion a EmberJS/examples/helloworld2.html",
+		"/home/ceronman/Introduccion a EmberJS/examples/helloworld3.html",
+		"/home/ceronman/Introduccion a EmberJS/examples/helloworld4.html",
+		"/home/ceronman/Introduccion a EmberJS/examples/js/example3.js",
+		"/home/ceronman/Introduccion a EmberJS/examples/example3.html",
+		"/home/ceronman/Introduccion a EmberJS/examples/example4.html",
+		"/home/ceronman/Introduccion a EmberJS/examples/example1.html",
+		"/home/ceronman/Introduccion a EmberJS/examples/js/example2.js",
+		"/home/ceronman/Introduccion a EmberJS/examples/example2.html",
+		"/home/ceronman/git/starter-kit/js/example3.js",
+		"/home/ceronman/git/starter-kit/example3.html",
+		"/home/ceronman/git/starter-kit/css/style.css",
+		"/home/ceronman/Descargas/Getting-Started-with-Ember.js/Getting Started with EmberJS.html",
+		"/home/ceronman/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/ceronman/.config/sublime-text-2/Packages/User/SublimeHighlight.sublime-settings",
+		"/home/ceronman/Descargas/reveal.js-1.4/reveal.js-1.4/index.html",
+		"/home/ceronman/Descargas/Introduccion a EmberJS/Getting Started with EmberJS.html",
+		"/home/ceronman/Descargas/Open source TODO",
+		"/home/ceronman/example/solr/collection1/conf/solrconfig.xml",
+		"/home/ceronman/example/solr/collection1/conf/data-config.xml",
+		"/home/ceronman/example/contexts/solr.xml",
+		"/home/ceronman/example/solr/fluiddb/conf/dataimport.properties",
+		"/home/ceronman/example/solr-webapp/webapp/WEB-INF/web.xml",
+		"/home/ceronman/example/solr/collection1/conf/schema.xml",
+		"/home/ceronman/example/solr/fluiddb/conf/solrconfig.xml",
+		"/home/ceronman/fluidinfo/src/git/fluiddb/README.rst",
+		"/home/ceronman/fluidinfo/src/git/fluiddb/Makefile",
+		"/home/ceronman/fluidinfo/src/git/fluiddb/bin/check-dependencies",
+		"/home/ceronman/test.py",
+		"/home/ceronman/fluidinfo/src/git/fluiddb/requirements.txt",
+		"/home/ceronman/fluidinfo/src/git/fluiddb/INSTALL-12.04.rst",
+		"/home/ceronman/.ssh/known_hosts",
+		"/home/ceronman/stuff/documentos/cv/cv_en.tex",
+		"/home/ceronman/stuff/documentos/cv/education_cv_en.tex",
+		"/home/ceronman/stuff/documentos/cv/build.sh",
+		"/home/ceronman/stuff/documentos/cv/moderncv/examples/template.tex",
+		"/home/ceronman/stuff/documentos/cv/moderncv/examples/template-es.tex",
+		"/home/ceronman/git/migrate.sh",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/fluidview/static/js/fluidview/controllers/tutorial.js",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/fluidview/static/js/fluidview/views/comment.js",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/fluidview/static/js/fluidview/controllers/object.js",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/portal/static/less/portal.less",
+		"/home/ceronman/git/cocosdart/.git/COMMIT_EDITMSG",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/portal/templates/fluidview/dashboard.html",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/portal/templates/fluidview/create-object.html",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/portal/templates/fluidview/views/create-object.html",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/fluidview/static/js/fluidview/views/create-object.js",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/portal/templates/fluidview/base.html",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/portal/urls.py",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/portal/views.py",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/media/css/style.css",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/fluidview/static/js/fluidview/controllers/comment.js",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/fluidview/static/js/fluidview/controllers/create-object.js",
+		"/home/ceronman/git/dartbox2d/lib/common/Transform.dart",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/lovemedo/static/less/objectbrowser.less",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/portal/templates/fluidview/api-browser.html",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/lovemedo/templates/fluidview/dashboard.html",
+		"/home/ceronman/fluidinfo/src/git/swagger-ui/src/main/template/main.handlebars",
+		"/home/ceronman/fluidinfo/src/git/swagger-ui/src/main/coffeescript/view/MainView.coffee",
+		"/home/ceronman/fluidinfo/src/git/swagger-ui/src/main/coffeescript/view/OperationView.coffee",
+		"/home/ceronman/fluidinfo/src/git/swagger-ui/dist/index.html",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/local_settings.py",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/portal/templates/fluidview/comment.html",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/portal/static/api-browser/index.html",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/fluidview/static/js/fluidview/controllers/controller.js",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/portal/static/api-browser/resources.json",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/portal/templates/fluidview/object.html",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/portal/static/api-browser/css/screen.css",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/fluidview/static/js/dependencies/fluidinfo.js",
+		"/home/ceronman/fluidinfo/src/git/swagger-ui/dist/resources.json",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/portal/templates/fluidview/user-following.html",
+		"/home/ceronman/fluidinfo/src/git/swagger-ui/dist/about.json",
+		"/home/ceronman/fluidinfo/src/git/swagger-ui/dist/fluiddb-spec.json",
+		"/home/ceronman/fluidinfo/src/git/swagger-ui/dist/namespaces.json",
+		"/home/ceronman/fluidinfo/src/git/swagger-ui/dist/objects.json",
+		"/home/ceronman/fluidinfo/src/git/swagger-ui/dist/permissions.json",
+		"/home/ceronman/fluidinfo/src/git/swagger-ui/dist/users.json",
+		"/home/ceronman/fluidinfo/src/git/swagger-ui/dist/values.json",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/fluidview/static/js/dependencies/ember-0.9.8.1.js",
+		"/home/ceronman/.config/google-chrome/Default/User StyleSheets/Custom.css",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/lovemedo/templates/fluidview/object.html",
+		"/home/ceronman/fluidinfo/src/git/swagger-ui/dist/css/screen.css",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/infomaniac/static/js/view.js",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/fluidview/static/js/fluidview/views/wizard.js",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/urls.py",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/.gitignore",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/lovemedo/urls.py",
+		"/home/ceronman/git/dagali/.gitignore",
+		"/home/ceronman/git/cocosdart/.gitignore",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/fluidview/views.py",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/lovemedo/views.py",
+		"/home/ceronman/fluidinfo/src/git/loveme.do/fluidinfo/apps/fluidview/static/js/fluidview/views/wizzard.js",
+		"/home/ceronman/git/swagger-ui/dist/objects.json",
+		"/home/ceronman/git/dartbox2d/lib/box2d_nohtml.dart",
+		"/home/ceronman/git/dartbox2d/lib/common/MathBox.dart",
+		"/home/ceronman/git/dartbox2d/lib/common/Vector.dart",
+		"/home/ceronman/git/swagger-ui/dist/resources.json",
+		"/home/ceronman/git/swagger-ui/dist/about.json",
+		"/home/ceronman/git/swagger-ui/dist/namespaces.json",
+		"/home/ceronman/git/swagger-ui/dist/values.json",
+		"/home/ceronman/git/swagger-ui/dist/permissions.json",
+		"/home/ceronman/git/swagger-ui/dist/tags.json",
+		"/home/ceronman/git/swagger-ui/dist/users.json",
+		"/home/ceronman/git/swagger-ui/dist/recent.json",
+		"/home/ceronman/.config/sublime-text-2/Packages/JsFormat/JsFormat.sublime-settings",
+		"/home/ceronman/git/swagger-ui/dist/index.html",
+		"/home/ceronman/git/swagger-ui/dist/css/screen.css",
+		"/home/ceronman/git/swagger-ui/src/main/coffeescript/SwaggerUi.coffee",
+		"/home/ceronman/git/swagger-ui/src/main/coffeescript/view/MainView.coffee",
+		"/home/ceronman/git/swagger-ui/src/main/coffeescript/view/ResourceView.coffee"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"example",
+			"text",
+			"QueryAnaly",
+			"redis",
+			", None)",
+			",",
+			" ",
+			"''",
+			"'",
+			", None),",
+			"None),",
+			"encode",
+			"next-page",
+			"#tags",
+			"navigation",
+			"<<<",
+			"moz",
+			"dashboard",
+			"background",
+			"backgroudn",
+			"COMPRESS",
+			"api",
+			"compress",
+			"authorizationBase64Fragment",
+			"padding: 7px 0 4px 0;",
+			"resources_container",
+			"container",
+			"width",
+			"Ember.computed",
+			"EXTEND",
+			"prototyp",
+			"defineProperty",
+			"property",
+			"25px",
+			"http://fluiddb.fluidinfo.com",
+			"input",
+			"black",
+			"footer",
+			"Droid Sans",
+			"font-fami",
+			"right",
+			"operation.get",
+			"togger",
+			"list-style",
+			"li.resource",
+			" a ",
+			"http://localhost:9000",
+			"body",
+			"\"errorResponses\": [{\n        \"reason\": \"An error with the request payload.\",\n        \"code\": 400\n      }, {\n        \"reason\": \"Bad credentials\",\n        \"code\": 401\n      }],",
+			"\"errorResponses\":",
+			"errorResponses:",
+			"errorResponses: [.*]",
+			"errorResponses: [.]",
+			"border-color",
+			"border",
+			"bordern",
+			"AAAAAA",
+			"999999",
+			"head",
+			".head",
+			"999999",
+			"color",
+			"background-color",
+			"backb",
+			"delete",
+			"background-color",
+			"put",
+			"get",
+			"authorizationBase64Fragment",
+			"login",
+			"options",
+			"Authorization",
+			"Authori",
+			"api_key",
+			"supportHeaderParams",
+			"@api",
+			"supportHEaderParams",
+			"termsAccepted",
+			"welcom",
+			"wizard",
+			"att",
+			"attr",
+			"bind",
+			"bold",
+			"storage",
+			"stor",
+			"keyword",
+			"Keyword",
+			"error",
+			"import.html",
+			"Summary",
+			"Varela",
+			"background",
+			"button",
+			"modal",
+			"fetch",
+			"getForUser",
+			"FI.getTagValue",
+			"CommentObject",
+			"objectController",
+			"FollowingObjectTypePickerView",
+			"CommentControllerMixin",
+			"load-comments-button",
+			"load-comments",
+			"toggleFollow",
+			"summarizeObj",
+			"getFollowed",
+			"#",
+			"#FF",
+			"#",
+			"followedObjects",
+			"getFollowedObjects",
+			"followedObjects",
+			"SummaryCont",
+			"UserController",
+			"console",
+			"followsObj",
+			"followsObjectController",
+			"summary",
+			"setPollingTimeout",
+			"div",
+			"indent",
+			"controler",
+			"Load a more",
+			"setPolling",
+			"console",
+			"margin-right",
+			"center"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"helloworld",
+			"",
+			"', None),",
+			"\", None),",
+			", None),",
+			",\\n",
+			" ",
+			"",
+			"=\"\"",
+			"padding: 7px 4px 4px 4px;",
+			"#888",
+			"Varela Round",
+			"operation",
+			"https://fluiddb.fluidinfo.com",
+			"",
+			"controller",
+			"getRelatedContentForObject",
+			"userIsFollowing",
+			"",
+			"ceronman",
+			"pass",
+			"activeObject",
+			"jkakar",
+			"height",
+			"width",
+			"lightgreen",
+			"src",
+			"@"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 301.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"example",
+				"js/example3.js"
+			],
+			[
+				"exa",
+				"example3.html"
+			],
+			[
+				"tuto",
+				"fluidinfo/apps/portal/templates/fluidview/tutorial-permissions.html"
+			],
+			[
+				"tutorial-",
+				"fluidinfo/apps/portal/templates/fluidview/tutorial-objects.html"
+			],
+			[
+				"tag-value",
+				"fluidinfo/apps/fluidview/static/js/fluidview/mixins/tag-values.js"
+			],
+			[
+				"object.js",
+				"fluidinfo/apps/fluidview/static/js/fluidview/controllers/object.js"
+			],
+			[
+				"controller/obj",
+				"fluidinfo/apps/fluidview/static/js/fluidview/controllers/object.js"
+			],
+			[
+				"js/views",
+				"fluidinfo/apps/fluidview/static/js/fluidview/views/comment.js"
+			],
+			[
+				"porta.less",
+				"fluidinfo/apps/portal/static/less/portal.less"
+			],
+			[
+				"object",
+				"fluidinfo/apps/portal/templates/fluidview/object.html"
+			],
+			[
+				"tutoria",
+				"fluidinfo/apps/portal/templates/fluidview/tutorial-tags.html"
+			],
+			[
+				"url",
+				"fluidinfo/apps/portal/urls.py"
+			],
+			[
+				"style.",
+				"fluidinfo/media/css/style.css"
+			],
+			[
+				"views",
+				"fluidinfo/apps/portal/views.py"
+			],
+			[
+				"urls",
+				"fluidinfo/apps/portal/urls.py"
+			],
+			[
+				"portal.less",
+				"fluidinfo/apps/portal/static/less/portal.less"
+			],
+			[
+				"objectbrowser",
+				"fluidinfo/apps/lovemedo/static/less/objectbrowser.less"
+			],
+			[
+				"api-b",
+				"fluidinfo/apps/portal/templates/fluidview/api-browser.html"
+			],
+			[
+				"base",
+				"fluidinfo/apps/portal/templates/fluidview/base.html"
+			],
+			[
+				"dashboard.html",
+				"fluidinfo/apps/portal/templates/fluidview/dashboard.html"
+			],
+			[
+				"dash",
+				"fluidinfo/apps/lovemedo/templates/fluidview/dashboard.html"
+			],
+			[
+				"flud",
+				"fluidinfo/apps/fluidview/static/js/dependencies/fluidinfo.js"
+			],
+			[
+				"",
+				"fluidinfo/apps/portal/templates/fluidview/comment.html"
+			],
+			[
+				"contrll",
+				"fluidinfo/apps/fluidview/static/js/fluidview/controllers/controller.js"
+			],
+			[
+				"fluid",
+				"fluidinfo/apps/fluidview/static/js/dependencies/fluidinfo.js"
+			],
+			[
+				"embe",
+				"fluidinfo/apps/fluidview/static/js/dependencies/ember-0.9.8.1.js"
+			],
+			[
+				"object.hm",
+				"fluidinfo/apps/lovemedo/templates/fluidview/object.html"
+			],
+			[
+				"view",
+				"fluidinfo/apps/fluidview/views.py"
+			],
+			[
+				"view.py",
+				"fluidinfo/apps/lovemedo/views.py"
+			],
+			[
+				"urls.",
+				"fluidinfo/apps/lovemedo/urls.py"
+			],
+			[
+				"view.js",
+				"fluidinfo/apps/infomaniac/static/js/view.js"
+			],
+			[
+				"model",
+				"fluidinfo/apps/infomaniac/static/js/model.js"
+			],
+			[
+				"fluidinf",
+				"fluidinfo/apps/infomaniac/static/js/dependencies/fluidinfo.js"
+			],
+			[
+				"new-use",
+				"fluidinfo/apps/infomaniac/templates/infomaniac/new-user-3.html"
+			],
+			[
+				"new-user",
+				"fluidinfo/apps/infomaniac/templates/infomaniac/new-user-2.html"
+			],
+			[
+				"new",
+				"fluidinfo/apps/infomaniac/templates/infomaniac/new-user-1.html"
+			],
+			[
+				"objec",
+				"fluidinfo/apps/infomaniac/static/less/objectbrowser.less"
+			],
+			[
+				"new-",
+				"fluidinfo/apps/infomaniac/templates/infomaniac/new-user-email.html"
+			],
+			[
+				"obj",
+				"fluidinfo/apps/infomaniac/templates/infomaniac/object.html"
+			],
+			[
+				"obje",
+				"fluidinfo/apps/infomaniac/static/js/objectbrowser.js"
+			],
+			[
+				"new-user-em",
+				"fluidinfo/apps/infomaniac/templates/infomaniac/new-user-email.html"
+			],
+			[
+				"user-fo",
+				"fluidinfo/apps/infomaniac/templates/infomaniac/user-following.html"
+			],
+			[
+				"views.p",
+				"fluidinfo/apps/infomaniac/views.py"
+			],
+			[
+				"import",
+				"fluidinfo/apps/importer/templates/import.html"
+			],
+			[
+				"user",
+				"fluidinfo/apps/infomaniac/templates/infomaniac/user.html"
+			],
+			[
+				"summa",
+				"fluidinfo/apps/infomaniac/templates/infomaniac/summary-view.html"
+			],
+			[
+				"home",
+				"fluidinfo/apps/infomaniac/templates/infomaniac/home.html"
+			],
+			[
+				"peopl",
+				"fluidinfo/apps/infomaniac/static/js/peoplebrowsr.js"
+			],
+			[
+				"test_user",
+				"fluidinfo/apps/infomaniac/tests/test_user.js"
+			],
+			[
+				"index",
+				"fluidinfo/apps/infomaniac/tests/index.html"
+			],
+			[
+				"test_obje",
+				"fluidinfo/apps/infomaniac/tests/test_object.js"
+			],
+			[
+				"test_comment",
+				"fluidinfo/apps/infomaniac/tests/test_commentapi.js"
+			],
+			[
+				"tests.py",
+				"fluidinfo/apps/infomaniac/tests.py"
+			],
+			[
+				"test.py",
+				"fluidinfo/social_auth_extra_services/tests.py"
+			],
+			[
+				"index.h",
+				"fluidinfo/apps/infomaniac/tests/index.html"
+			],
+			[
+				"test_about",
+				"fluidinfo/apps/infomaniac/tests/test_about.js"
+			],
+			[
+				"comment.html",
+				"fluidinfo/apps/infomaniac/templates/infomaniac/comment.html"
+			],
+			[
+				"comment",
+				"fluidinfo/apps/infomaniac/templates/infomaniac/comment-view.html"
+			],
+			[
+				"summ",
+				"fluidinfo/apps/infomaniac/templates/infomaniac/summary-view.html"
+			],
+			[
+				"test_comme",
+				"fluidinfo/apps/infomaniac/tests/test_commentapi.js"
+			],
+			[
+				"fluidinfo.js",
+				"fluidinfo/apps/infomaniac/static/js/dependencies/fluidinfo.js"
+			],
+			[
+				"user-fol",
+				"fluidinfo/apps/infomaniac/templates/infomaniac/user-following.html"
+			],
+			[
+				"peop",
+				"fluidinfo/apps/infomaniac/static/js/peoplebrowsr.js"
+			],
+			[
+				"sum",
+				"fluidinfo/apps/infomaniac/templates/infomaniac/summary-view.html"
+			],
+			[
+				"comment-",
+				"fluidinfo/apps/infomaniac/templates/infomaniac/comment-view.html"
+			],
+			[
+				"object.h",
+				"fluidinfo/apps/infomaniac/templates/infomaniac/object.html"
+			],
+			[
+				"readme",
+				"README.md"
+			],
+			[
+				"user.ht",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/templates/infomaniac/user.html"
+			],
+			[
+				"summary",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/templates/infomaniac/summary-view.html"
+			],
+			[
+				"object.html",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/templates/infomaniac/object.html"
+			],
+			[
+				"following",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/templates/infomaniac/user-following.html"
+			],
+			[
+				"objecbro",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/static/less/objectbrowser.less"
+			],
+			[
+				"recent",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/templates/infomaniac/recent.html"
+			],
+			[
+				"test_hel",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/tests/test_helpers.js"
+			],
+			[
+				"help",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/static/js/helpers.js"
+			],
+			[
+				"comment-view",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/templates/infomaniac/comment-view.html"
+			],
+			[
+				"objectbro",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/static/less/objectbrowser.less"
+			],
+			[
+				"user.",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/templates/infomaniac/user.html"
+			],
+			[
+				"ember",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/static/js/dependencies/ember-0.9.8.1.js"
+			],
+			[
+				"test_help",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/tests/test_helpers.js"
+			],
+			[
+				"user.h",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/templates/infomaniac/user.html"
+			],
+			[
+				"helper",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/static/js/helpers.js"
+			],
+			[
+				"comment-v",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/templates/infomaniac/comment-view.html"
+			],
+			[
+				"test_ab",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/tests/test_about.js"
+			],
+			[
+				"test_commentapi",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/tests/test_commentapi.js"
+			],
+			[
+				"views.py",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/views.py"
+			],
+			[
+				"test_comm",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/tests/test_commentapi.js"
+			],
+			[
+				"helpers",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/static/js/helpers.js"
+			],
+			[
+				"user.html",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/templates/infomaniac/user.html"
+			],
+			[
+				"test_tre",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/tests/test_trending.js"
+			],
+			[
+				"vies",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/static/js/view.js"
+			],
+			[
+				"ember-",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/static/js/emberjs/ember-0.9.8.1.js"
+			],
+			[
+				"base.html",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/templates/infomaniac/base.html"
+			],
+			[
+				"tst_cop",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/tests/test_commentapi.js"
+			],
+			[
+				"test_tr",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/tests/test_trending.js"
+			],
+			[
+				"base.htm",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/templates/infomaniac/base.html"
+			],
+			[
+				"test_trend",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/tests/test_trending.js"
+			],
+			[
+				"viej",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/static/js/view.js"
+			],
+			[
+				"read",
+				"fluidinfo.com/README.rst"
+			],
+			[
+				"test.html",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/tests/index.html"
+			],
+			[
+				"emb",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/static/js/embedly.js"
+			],
+			[
+				"da",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/templates/infomaniac/dashboard.html"
+			],
+			[
+				"recent.ht",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/templates/infomaniac/recent.html"
+			],
+			[
+				"objectbo",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/static/less/objectbrowser.less"
+			],
+			[
+				"sttyl",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/static/less/styles.less"
+			],
+			[
+				"object.ht",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/templates/infomaniac/object.html"
+			],
+			[
+				"model.js",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/static/js/model.js"
+			],
+			[
+				"user-f",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/templates/infomaniac/user-following.html"
+			],
+			[
+				"defa",
+				"infomaniac/defaults/preferences/defaults.js"
+			],
+			[
+				"base.h",
+				"fluidinfo.com/fluidinfo/templates/base.html"
+			],
+			[
+				"test_helper",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/tests/test_helpers.js"
+			],
+			[
+				"extension.les",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/static/less/extension.less"
+			],
+			[
+				"extension",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/templates/infomaniac/extension.html"
+			],
+			[
+				"extension.less",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/static/less/extension.less"
+			],
+			[
+				"defau",
+				"infomaniac/defaults/preferences/defaults.js"
+			],
+			[
+				"brow",
+				"infomaniac/chrome/content/browser.js"
+			],
+			[
+				"sideb",
+				"infomaniac/chrome/content/sidebar.js"
+			],
+			[
+				"extension.le",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/static/less/extension.less"
+			],
+			[
+				"objectbrowser.le",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/static/less/objectbrowser.less"
+			],
+			[
+				"def",
+				"infomaniac/defaults/preferences/defaults.js"
+			],
+			[
+				"broser",
+				"infomaniac/chrome/content/browser.js"
+			],
+			[
+				"br",
+				"fluidinfo.com/build/django/django/contrib/localflavor/be/be_regions.py"
+			],
+			[
+				"sidebar",
+				"infomaniac/chrome/content/sidebar.xul"
+			],
+			[
+				"extension.htm",
+				"fluidinfo.com/fluidinfo/apps/infomaniac/templates/infomaniac/extension.html"
+			],
+			[
+				"entr",
+				"/home/ceronman/fluidinfo/src/git/infomaniac/chrome/content/entrypoint.js"
+			],
+			[
+				"conte",
+				"/home/ceronman/fluidinfo/src/git/infomaniac/chrome/content/contextmenu.js"
+			],
+			[
+				"side",
+				"/home/ceronman/fluidinfo/src/git/infomaniac/chrome/content/sidebar.xul"
+			],
+			[
+				"ove",
+				"/home/ceronman/fluidinfo/src/git/infomaniac/chrome/content/overlay.xul"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/ceronman/git/tinto2d/tinto.sublime-project"
+			],
+			[
+				"ti",
+				"/home/ceronman/git/tinto2d/tinto.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true
+}
